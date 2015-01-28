@@ -1,0 +1,251 @@
+% Prof. Dr. Ausberto S. Castro Vera
+% UENF - CCT - LCMAT - Curso de Ci\^{e}ncia da Computa\c{c}\~{a}o
+% Campos, RJ,  2013-2014
+% Disciplina: Paradigmas de Linguagens de Programa\c{c}\~{a}o
+
+
+
+
+\documentclass[pdftex, 12pt]{report}
+
+\usepackage[brazil]{babel}
+\usepackage{babelbib}
+
+
+
+\usepackage{graphicx}
+\usepackage{fancyheadings}
+\usepackage{url} %
+\usepackage[utf8x]{inputenc} %acentos desde el teclado
+\usepackage[T1]{fontenc}
+\usepackage[x11names,table]{xcolor}
+\usepackage{here}
+\usepackage{tikz}
+\usepackage[pdftex,bookmarks,raiselinks,pageanchor,hyperindex,colorlinks]{hyperref}
+
+\usepackage[listings,theorems,documentation,skins,breakable,hooks]{tcolorbox}
+\tcbset{skin=enhanced}
+
+\usepackage{listings}
+         \lstset{ %
+  	      language={[LaTeX]TeX}, %Pascal % lenguaje de programaci\'{o}n
+  	      basicstyle=\bfseries\ttfamily,
+  	      keywordstyle=\color{blue},
+  	      commentstyle=\color{brown},	
+  	      backgroundcolor=\color{green!5},
+  	      showstringspaces=false
+  	      }
+
+\usepackage[brazilian,hyperpageref]{backref}
+% Configura\c{c}\~{o}es do pacote backref
+% Usado sem a op\c{c}\~{a}o hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) p\'{a}gina(s):~}
+% Texto padr\~{a}o antes do n\'{u}mero das p\'{a}ginas
+\renewcommand{\backref}{}
+% Define os textos da cita\c{c}\~{a}o
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+		Nenhuma cita\c{c}\~{a}o no texto.%
+	\or
+		Citado na p\'{a}gina #2.%
+	\else
+		Citado #1 vezes nas p\'{a}ginas #2.%
+	\fi}%
+% ---
+
+
+
+
+\usetikzlibrary{shadings,shadows}
+\usetikzlibrary{decorations.pathmorphing}
+\usetikzlibrary{patterns}
+
+\tcbmakedocSubKey{docTcbKey}{tcb}
+\tcbmakedocSubKey{langTcbKey}{tcb/doclang}
+
+
+\newcommand{\email}{\begingroup \urlstyle{tt}\Url}
+\def\h#1{\hspace*{#1cm}}
+\definecolor{verde}{rgb}{0,0.5,0}
+\definecolor{roxo}{rgb}{0.5,0,0.5}
+\definecolor{marron}{rgb}{0.5,0,0}
+
+
+%\usepackage{listings}
+
+
+\newtheorem{teo}{Teorema}[chapter]
+\newtheorem{lema}{Lema}[chapter]
+\newtheorem{algo}{Algoritmo}
+\newtheorem{coro}{Corolario}[chapter]
+
+\def\fim{$\lozenge$}
+\def\h#1{\hspace*{#1cm}}
+\newcounter{exem}[chapter]
+%\newcounter{defin}[chapter]
+\newcommand{\exemplo}[1][]{\addtocounter{exem}{1}
+                \par \noindent
+                {\textcolor{marron}{\sf Exemplo \thechapter.\theexem}}  \ }
+
+%\newcommand{\defin}[1]{\addtocounter{defin}{1} \par \noindent
+%                {\bf Defini\c{c}\~{a}o \thechapter.\thedefin} \ {\sf \textcolor{blue}{ #1}}\\ }
+
+%%%----------------------------Defini\c{c}\~{a}o -----------------------------
+\newcounter{mydef}[chapter]
+\def\themydef{\thechapter.\arabic{mydef}}
+
+\tcbmaketheorem{defin}{Defini\c{c}\~{a}o}{breakable,
+                                  fonttitle=\bfseries\upshape,
+                                  fontupper=\slshape,
+                                  arc=0mm,
+                                  colback=blue!5!white,
+                                  colframe=blue!80!black}{mydef}{theorem}
+%%%-------------------------------------------------------------------
+\let\footnotesize\small
+\let\footnoterule\relax
+%%\setcounter{page}{1}
+%%\thispagestyle{empty}
+
+\newcommand{\sol}{\par {\it Solu\c{c}\~{a}o: \ \ }}
+\def\mini#1{\hspace*{2cm}\begin{minipage}{12cm} #1 \end{minipage}}
+
+\textwidth=15cm \textheight=22cm \evensidemargin=0cm \oddsidemargin=0cm
+\footskip=1cm \topmargin=0cm \parskip=0.2cm
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=false,          % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,        % show Acrobat’s toolbar?
+    pdfmenubar=true,        % show Acrobat’s menu?
+    pdffitwindow=false,     % window fit to page when opened
+    pdfstartview={FitH},    % fits the width of the page to the window
+    pdftitle={Trabalho sobre An\'{a}lise e Projeto de Sistemas},    % title
+    pdfauthor={Aluno and Prof. Ausberto S. Castro Vera, 2014-2015},     % author
+    pdfsubject={An\'{a}lise e Projeto de Sistemas},   % subject of the document
+    pdfcreator={ASCV, WinEdt},   % creator of the document
+    pdfproducer={ASCV}, % producer of the document
+    pdfkeywords={An\'{a}lise} {Projeto} {Desenvolvimento}, % list of keywords
+    pdfnewwindow=true,      % links in new window
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=red,          % color of internal links (change box color with linkbordercolor)
+    citecolor=blue,        % color of links to bibliography
+    filecolor=magenta,      % color of file links
+    urlcolor=cyan           % color of external links
+}
+
+\begin{document}
+
+%%%------------------------ FOLHA DE ROSTO ------------------------- %
+\begin{titlepage}
+
+%----------------------------------------------------------------------------------------
+%	CABE\c{C}ALHO
+%----------------------------------------------------------------------------------------
+\center
+\includegraphics[width=3cm]{UENF}\\[0.5cm]
+\textsc{\LARGE Universidade Estadual do Norte}\\[0.2cm]
+\textsc{\LARGE Fluminense Darcy Ribeiro}\\[0.5cm]
+\textsc{\Large Centro de Ci\^{e}ncia e Tecnologia - CCT}\\[0.3cm]
+\textsc{\Large Laborat\'{o}rio de Ci\^{e}ncias Matem\'{a}ticas - LCMAT}\\[0.3cm]
+\textsc{\large\bf Bacharelado em Ci\^{e}ncia da Computa\c{c}\~{a}o}\\[3cm]
+
+%----------------------------------------------------------------------------------------
+%	TITULO
+%----------------------------------------------------------------------------------------
+\HRule \\[0.4cm]
+\textcolor{blue}{ \huge \bfseries Sistema Acadêmico}\\[0.4cm] % Titulo do trabalho
+\HRule \\[3cm]
+
+%----------------------------------------------------------------------------------------
+%	autor
+%----------------------------------------------------------------------------------------
+\begin{minipage}{0.45\textwidth}
+\begin{flushleft} \large
+\emph{Aluno:}\\
+Rodolfo \textsc{Peixoto}                           % Nome do aluno
+\end{flushleft}
+\end{minipage}
+~
+\begin{minipage}{0.45\textwidth}
+\begin{flushright} \large
+\emph{Professor:} \\
+Dr. Ausberto S. \textsc{Castro V.}                 % Nome do Professor
+\end{flushright}
+\end{minipage}\\[4cm]
+
+
+
+\vfill
+{\large\bf Campos, RJ,   \today}
+
+\end{titlepage}
+%%%------------------------ FIM FOLHA DE ROSTO -------------------------
+
+
+
+
+\newpage
+
+%\vspace{6cm}
+\thispagestyle{empty}
+
+
+\newpage \pagenumbering{roman}
+
+ \topmargin=0cm
+
+\newpage \pagestyle{plain}
+
+\addcontentsline{toc}{chapter}{Sum\'{a}rio}
+
+%%%--------------- Sumario: Table of Contents  ------------------------------------
+\begin{tcolorbox}[breakable,skin=enhanced,title={Sum\'{a}rio},fonttitle=\bfseries\Large,
+  colback=yellow!10!white,colframe=red!50!black,before=\par\bigskip\noindent,
+  watermark color=yellow!75!red!25!white,
+  watermark text={\bfseries\Large Sum\'{a}rio},
+  frame style={drop shadow}
+  ]
+\makeatletter
+\@starttoc{toc}
+\makeatother
+\end{tcolorbox}
+%%%--------------------------------------------------------------------------------
+
+%\newpage
+%\listoftables
+
+\newpage
+\listoffigures
+
+% ---- cabe\c{c}alho ----
+\lhead[\sf \thepage]{\small \sf Analise e Projeto de sistemas \h1 \rightmark}
+\rhead[\small \sf Ausberto S.Castro V. \h1 \rightmark]{ \sf \thepage}
+\cfoot{}
+
+\pagestyle{fancy}
+
+\newpage
+ \pagenumbering{arabic}
+
+
+
+%%%%%% -------------- Lista de arquivos -------------------------------
+
+\input 01introduc.tex
+\input 02Planejamento.tex
+\input 03Analise.tex
+\input 04Projeto.tex
+\input conclusao.tex
+
+%%% ------------- Bibliografia -----------------------------------------
+\addcontentsline{toc}{chapter}{Bibliograf\'{\i}a}
+\bibliographystyle{alpha}
+\bibliography{APS}
+
+
+
+
+\end{document}

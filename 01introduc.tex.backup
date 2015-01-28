@@ -1,0 +1,90 @@
+% Prof. Dr. Ausberto S. Castro Vera
+% UENF - CCT - LCMAT - Curso de Ci\^{e}ncia da Computa\c{c}\~{a}o
+% Campos, RJ,  2015
+% Disciplina: An\'{a}lise e Projeto de Sistemas
+% Aluno: Rodolfo Gomes Peixoto
+
+
+
+\chapter{ Introdu\c{c}\~{a}o }
+
+
+   \section{Descri\c{c}\~{a}o do Sistema Computacional a desenvolver}
+
+     O SIAUENF é um sistema ERP de gestão acadêmico. O software incorporará todos os processos do meio universitário, desde o ingresso do aluno até sua saída. O sistema será dividido em módulos que segue abaixo:
+
+     Vestibular - ( Conterá todas as notas obtida pelo aluno no vestibular, classificação, alocação do aluno nas salas para fazer a prova )
+
+Acadêmico - ( Área onde o aluno poderá consultar: notas, provas, matérias, inclusão, exclusão, horas cursadas, chat direto com o professor, coeficiente de rendimento e o coeficiente de rendimento mensal , transferência, histórico escolar, diploma, cancelamento, será dividido para mestrado, graduando, pós, doutorado.)
+
+Financeiro - ( Cadastro de bolsas, administração da verba, fluxo de caixa, divisão de verba, contas a pagar, contas a receber, cobranças bancárias, dentre outras.)
+
+
+
+
+   \section{Identificando as componentes do meu sistema}
+   
+
+     
+     
+    \textbf{Hardware}
+     \begin{itemize}
+         \item Processador: i7
+         \item HD: 1Terabyte
+         \item RAM: 16 GB
+         \item Placa Mãe: ASUS
+        \item Roteador
+       \item Cabos RJ45
+   \end{itemize}
+     
+   \textbf{Software}
+   \begin{itemize}
+    \item Sistema Operacional: Ubuntu
+    \item NGIX
+    \item Ruby on Rails
+    \item Terminal
+    \item Sublime Text 3
+    \item Chrome
+    \item Firefox
+   \end{itemize}
+
+   
+   \section{Solicitação de Sistemas - Projeto de Pedido pela Internet}
+   
+
+    \textbf{Responsável pelo Projeto:} \hfill Rodolfo Peixoto, CEO da InfinitIdeaInnovations
+    
+    \textbf{Necessidade da empresa:} \hfill Este projeto foi criado com o objetivo de atingir todos os funcionários da universidade levando agilidade,
+    flexibilidade e facilidade à todo colegiado.
+    
+     \textbf{Requisitos de Negócios:}
+     
+     Os alunos serão capazes:
+     
+     \begin{itemize}
+      \item Visualizar Notas
+      \item Solicitar documentos
+      \item Visualizar as matérias
+      \item Incluir matérias
+      \item Excluir matérias
+      \item Grade do curso
+      \item Visualizar as horas cursadas
+     \end{itemize}
+     
+     Os docentes serão capazes:
+     \begin{itemize}
+      \item Criar Grade
+      \item Aprovar matérias dos alunos
+      \item Inserir listas de exercícios
+      \item Inserir notas
+      \item Inserir presença dos alunos
+     \end{itemize}
+     
+     
+    \textbf{Valor Agregado:}
+
+    
+ 
+
+
+ 

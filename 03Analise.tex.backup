@@ -2,7 +2,7 @@
 % UENF - CCT - LCMAT - Curso de Ci\^{e}ncia da Computa\c{c}\~{a}o
 % Campos, RJ,  2015
 % Disciplina: An\'{a}lise e Projeto de Sistemas
-% Aluno:
+% Aluno: Rodolfo Gomes Peixoto
 
 
 \chapter{Etapa de An\'{a}lise}
@@ -11,10 +11,36 @@ para aquele determinado serviço ou produto.
  \section{Requisitos do sistema}
  \subsection{Requisitos}
   \begin{itemize}
-      \item Aluno
-      \item Professor
+      \item Servidor
+      \item Computadores
+      \item Cabos de rede
+      \item Switchs
+      \item No-break
+      \item Sistema Operacional
+      \item Orientação a Objeto
+      \item Interface Gráfica
+      \item Página Web
+      \item Leitor de PDF
+      \item Cadastro de Alunos
+      \item Cadastro de Professores
+      \item Cadastro de Matérias
+      \item Cadastro de Notas
+      \item Exclusão de matéria
+      \item Manual do Sistema
+      \item Manual do Sistema Operacional
+      \item Relatórios
+      \item Documentação Digital
+      \item Documento genérico para assuntos gerais
+      \item Registrar Log para cada usuário
+      \item Backup do Sistema
+      \item Treinamento dos Alunos
+      \item Treinamento dos Professores
+      \item Treinamento dos Funcionários
+      \item Treinamento Horário Comercial
+      \item Treinamento Online
+      \item Manutenção do treinamento
+      \item Implementação da Rede
       \item Serviço Online
-      \item Acesso ao Sistema
       \item Segurança do Servidor
       \item Disponibilidade do Sistema
   \end{itemize}
@@ -132,28 +158,23 @@ para aquele determinado serviço ou produto.
 	  \item Automatização das funções
 	  \item Diminuição do uso do papel
 	  \item Confiança na utilização
-	 \end{itemize}
-
-
-Do produto
-Resultado satisfatório
-Confiança da empresa
-Bom desempenho dos funcionários
-Produto padronizado
-Disponibilidade do produto
-
-Da organização
-Atendimento rápido das chamadas
-Estabilidade do serviço
-Atendimento eficiente
-Comprimento do prazo combinado
-Manutenção dos equipamentos
-
-De segurança
-Sigilo dos dados dos usuários
-Segurança do site
-Interoperabilidade do sistema
-Confiança do site
-Estabilidade do site
-
+	  \item Satisfação do meio academico.
+	 \end{itemize} 
+	 
+	 \item Da organização
+	   \begin{itemize}
+	    \item Extinção do papel.
+	    \item Rapidez no serviço.
+	    \item Automatização das tarefas.
+	    \item Eficiência do serviço.
+	   \end{itemize} 
+	   
+	 \item Segurança
+	   \begin{itemize}
+	    \item Sigilo dos dados
+	    \item Criptografia das senhas
+	    \item Acesso permitido a usuário cadastrado.
+	    \item Estabilidade do site
+	   \end{itemize}
+	   
        \end{itemize}

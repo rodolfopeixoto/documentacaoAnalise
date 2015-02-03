@@ -47,89 +47,126 @@ para aquele determinado serviço ou produto.
   
   \subsection{Definição}
   \begin{itemize}
-      \item O servidor deve ter uma internet própria.
-      \item Computadores
-      \item Cabos de rede
-      \item Switchs
-      \item No-break
-      \item Sistema Operacional
-      \item Orientação a Objeto
-      \item Interface Gráfica
-      \item Página Web
-      \item Leitor de PDF
-      \item Cadastro de Alunos
-      \item Cadastro de Professores
-      \item Cadastro de Matérias
-      \item Cadastro de Notas
-      \item Exclusão de matéria
-      \item Manual do Sistema
-      \item Manual do Sistema Operacional
-      \item Relatórios
-      \item Documentação Digital
-      \item Documento genérico para assuntos gerais
-      \item Registrar Log para cada usuário
-      \item Backup do Sistema
-      \item Treinamento dos Alunos
-      \item Treinamento dos Professores
-      \item Treinamento dos Funcionários
-      \item Treinamento Horário Comercial
-      \item Treinamento Online
-      \item Manutenção do treinamento
-      \item Implementação da Rede
-      \item Serviço Online
-      \item Segurança do Servidor
-      \item Disponibilidade do Sistema
+\item O sistema deve ter um servidor onde esta o aplicativo.
+\item A rede do sistema deve  funcionar usando cabeamento.
+\item Os computadores estarão disponíveis para o acesso e manutenção dos mesmos.
+\item O sistema deve utilizar roteadores para a comunicação externa.
+\item Cada computador deve estar associado a um sistema operacional.
+\item o sistema deve conter uma interface gráfica para que facilite a interação usuário-máquina.
+\item Deve utilizar uma linguagem orientada a objetos para facilitar o desenvolvimento para uma linguagem mais natural.
+\item O sistema deve ter um operador de sistema para fazer a manutenção e acesso.
+\item Deve ter para poder verificar algum erro que possa estar ocorrendo na conexão.
+\item É necessário para que o serviço de atendimento online esteja em operação.
+\item É importante para saber a quantidade de alunos
+\item É importante para fazer o controle dos professores que terão acesso ao sistema
+\item O sistema deve conter as notas dos alunos para maior facilidade
+\item Terá as datas das provas de todas as disciplinas, através do portal do aluno.
+\item O acesso ao sistema deverá ser feito utilizando nome do usuário e senha.
+\item Deve ser executado o treinamento de todo o pessoal do sistema.
+\item A Segurança do Site garante sigilo dos dados do cliente.
+\item O Controle de Serviço é feito online de acordo com a disponibilidade do funcionário para que as chamadas sejam atendidas.
+\item O sistema deverá ter o relatório de todos os dados do sistema.
+\item No sistema os alunos poderão fazer a inclusão de disciplinas.
+\item Os alunos também terão a opção de fazer a exclusão das disciplinas
+\item O no-break deve impedir o desligamento das máquinas de forma brusca para não ocorrer possíveis danos aos computadores.
+\item Permitir a leitura de arquivos em formatos de PDF.
+\item Não permite oscilações de energia nos computadores.
+\item Salvar as informações do sistema periodicamente.
+\item A pré-matricula estará disponível para maior facilidade.
+\item o trancamento de disciplinas pode ser feito caso o aluno desista da disciplina.
+\item O aluno pode fazer o trancamento da matrícula.
+\item O aluno terá a opção de fazer o cancelamento da matrícula.
+\item Deve permitir o envio de requerimentos ao setor responsável.
   \end{itemize}
    
  \subsection{Especificação dos Requisitos}
-   \begin{itemize}
-    \item Alunos
-      \begin{itemize}
-       \item O aluno passou no vestibular.
-       \item Eles estão aptos a usar o sistemas
-       \item O aluno tem matrícula e senha personalizada
-       \item O aluno terá a disposição um computador caso não tenha computador.
-      \end{itemize}
-
-     \item Professores
-     \begin{itemize}
-      \item O professor é concursado ou contratado.
-      \item O professor tem acesso as matérias
-      \item O professor pode criar turmas.
-      \item O professor tem acesso diferenciado
-     \end{itemize}
-     
-     \item Serviço Online
-     \begin{itemize}
-      \item O serviço tem que ser armazenado em um servidor
-      \item O serviço tem que utilizar tecnologias web
-      \item O serviço tem que usar uma tecnologia escalavel
-      \item O serviço tem que usar as melhores práticas para um bom desempenho
-      \item O serviço tem que ser adaptável.
-     \end{itemize}
-     
-     \item Acesso ao Sistema
-     \begin{itemize}
-      \item O acesso tem que ser diferente para professores e alunos.
-      \item O acesso só será permitido para alunos ou professores cadastrados.
-      \item O acesso deverá ser feito pela matrícula do aluno ou professor e uma senha personalizada.
-      \item O acesso permitirá visualizar conteúdos distintos.
-     \end{itemize}
-     
-     \item Segurança do Servidor
-      \begin{itemize}
-       \item O servidor ficará em um local com temperatura baixa
-       \item O servidor terá duas portas de segurança
-       \item O servidor terá hardware de alta perfomace
-       \item O servidor será criptografado.
-      \end{itemize}
-
-     
-     \item Disponibilidade do sistema
-        \begin{itemize}
-         \item O sistema conterá duas redes de internet disponível.
-         \item O sistema funcionará mesmo offiline, armazendo blocos de texto e quando tiver conexão será enviado ao servidor.
-        \end{itemize}
+   \begin{itemize}\item Professores
+	\begin{itemize}
+	\item Estar apto a dar aula.
+	\item Estar apto a trabalhar com computadores.
+	\item Estar disponível para reuniões.
+	\item Seguir regras estabelecidas pelo sistema.
+	\end{itemize}
+\item Alunos
+	\begin{itemize}
+	\item Estar matriculados
+	\item Estar com a documentação em dia com a secretaria
+	\item Estar em dia com a biblioteca
+	\end{itemize}
+\item Rede de Computadores
+	\begin{itemize}
+	\item Serviço Online
+	\item É feito através da Internet
+	\item O usuário acessa o site da empresa
+	\item É oferecido acesso rápido a informações sobre o atendimento
+	\item Ingressar informações de acesso (usuário, senha) 
+	\item Verificar usuário cadastrado 
+	\item Verificar senha cadastrada 
+	\item Liberar perfil de usuário 
+	\item Liberar área e ferramentas de trabalho
+	\item Clicar no ícone de chamadas
+	\item Confirmar dados pessoais e endereço
+	\item Acessar pagamento via boleto bancário ou cartão de crédito
+	\item Confirmação do pagamento
+	\item Enviar chamada
+	\end{itemize}
+\item Acesso a internet
+	\begin{itemize}
+	\item Ligar o computador
+	\item O funcionário acessa o site da empresa
+	\item Verificar acesso à Internet
+	\item Verificar funcionário cadastrado 
+	\item Verificar senha cadastrada 
+	\item Liberar perfil de funcionário 
+	\item Liberar área e ferramentas de trabalho
+	\end{itemize}
+\item Serviço de Tele Atendimento
+	\begin{itemize}
+	\item O usuário executar a solicitação do serviço através do seu próprio telefone
+	\item Informa os seus dados pessoais
+	\item O usuário pode ligar de novo e pedir o cancelamento da sua solicitação
+	\item O usuário pode ligar para dar sua opinião para a melhoria do atendimento
+	\end{itemize}
+\item Acesso ao Sistema
+	\begin{itemize}
+	\item Abrir janela inicial com interface de acesso 
+	\item Ingressar informações de acesso (usuário, senha) 
+	\item Verificar aluno cadastrado 
+	\item Verificar senha cadastrada 
+	\item Liberar perfil do aluno 
+	\item Liberar área e ferramentas de trabalho 
+	\item Permitir acesso à Internet 
+	\item Ver relação de chamadas
+	\item Finalizar processo
+	\end{itemize}
+\item Segurança do Servidor
+	\begin{itemize}
+	\item Instalar os últimos patches do fabricante
+	\item Instalar ferramentas de detecção de invasão
+	\item O servidor armazena arquivos de diversos usuários
+	\item O usuário deve escolher senhas fortes
+	\item O sistema é configurado para só aceitar senhas que tenham, por exemplo, um número de caracteres maior do que 8, que sejam por símbolos especiais, dígitos numéricos e caracteres alfabéticos, etc.
+	\item Manter o sistema operacional atualizado
+	\item Configurar e manter logs atualizados
+	\end{itemize}
+\item Segurança do Servidor
+	\begin{itemize}
+	\item Realizar ajustes de defesa em tempo real
+	\item Instalar ferramentas de detecção de invasão
+	\item Configurar e manter logs atualizados
+	\item Instalar aplicativos que garante que os dados armazenados estejam seguros
+	\end{itemize}
+\item Controle do Serviço
+	\begin{itemize}
+	\item Chamadas são registradas no sistema.
+	\item Usuários abre janela inicial com interface de acesso 
+	\item Ingressar informações de acesso (usuário, senha) 
+	\item Verificar aluno cadastrado 
+	\item Verificar senha cadastrada 
+	\item Liberar perfil de alunos 
+	\item Liberar área e ferramentas de trabalho 
+	\item Verifica quantidade máxima de chamadas por dia para não haver reclamações de atendimento.
+	\end{itemize}
 
 
    \end{itemize}
@@ -149,6 +186,7 @@ para aquele determinado serviço ou produto.
        \item  O sistema deverá utilizar dos melhores switchs, roteadores e cabos de redes de melhor qualidade, afim de não haver desgaste ou danos aos componetes.
        \item  A transmissão de dados deverá ser de 100mb/s para que o servidor não fique lento.
        \item O Sistema terá um sistema de backup do tipo RAD 10.
+       \item É também de suma importância que cada subsistema tenha seu próprio backup físico para garantir à segurança dos dados do servidor, diminuindo o máximo possível a perda dos registros por meios de danos físicos causados por fatores externos.
       \end{itemize}
 
      \subsection{Definições}
@@ -159,6 +197,7 @@ para aquele determinado serviço ou produto.
             \item O sistema deverá se comunicar com eficiência.
             \item O sistema deverá fazer o cadastro de todas a comunidade academica.
             \item O servidor deverá monitorar e enviar emails para o administrado em caso de falha.
+	    \item Monitoramento das notas dos alunos por meio de boletim.
            \end{itemize}
            
          \item Não funcionais
@@ -193,6 +232,7 @@ para aquele determinado serviço ou produto.
 	    \item Rapidez no serviço.
 	    \item Automatização das tarefas.
 	    \item Eficiência do serviço.
+	    \item Comprimento do prazo combinado
 	   \end{itemize} 
 	   
 	 \item Segurança
@@ -200,7 +240,8 @@ para aquele determinado serviço ou produto.
 	    \item Sigilo dos dados
 	    \item Criptografia das senhas
 	    \item Acesso permitido a usuário cadastrado.
-	    \item Estabilidade do site
+	    \item Estabilidade do site	    
+	    \item Confiança do site
 	   \end{itemize}
 	   
        \end{itemize}

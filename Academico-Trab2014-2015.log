@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.27)  3 FEB 2015 10:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.27)  12 FEB 2015 08:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -831,7 +831,11 @@ Package hyperref Info: Option `pdfmenubar' set `true' on input line 137.
 Package hyperref Info: Option `pdffitwindow' set `false' on input line 137.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 137.
 Package hyperref Info: Option `colorlinks' set `true' on input line 137.
-(./Academico-Trab2014-2015.aux)
+(./Academico-Trab2014-2015.aux
+
+LaTeX Warning: Label `figRotulo' multiply defined.
+
+)
 \openout1 = `Academico-Trab2014-2015.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
@@ -912,7 +916,7 @@ LaTeX Info: Redefining \nameref on input line 139.
 
 \c@lstlisting=\count178
 
-<UENF.png, id=127, 149.1171pt x 115.632pt>
+<UENF.png, id=155, 149.1171pt x 115.632pt>
 File: UENF.png Graphic file (type png)
  <use UENF.png>
 Package pdftex.def Info: UENF.png used on input line 148.
@@ -1134,65 +1138,133 @@ Package babel Info: Redefining portuges shorthand "|
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 46.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 57.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 57.
+(babel)             in language  on input line 55.
  [11]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
  [12]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 122.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 122.
  [13]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 159.
  [14]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 174.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 183.
+(babel)             in language  on input line 185.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 189.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 189.
  [15]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
+(babel)             in language  on input line 194.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 233.
+(babel)             in language  on input line 219.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 233.
- [16]) (./04Projeto.tex
+(babel)             in language  on input line 219.
+ [16] <rede.jpg, id=362, 433.62pt x 281.55188pt>
+File: rede.jpg Graphic file (type jpg)
+
+<use rede.jpg>
+Package pdftex.def Info: rede.jpg used on input line 253.
+(pdftex.def)             Requested size: 433.61894pt x 281.55118pt.
+
+Overfull \hbox (6.8276pt too wide) in paragraph at lines 253--254
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 257.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 257.
+[17]) (./04Projeto.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 8.
- [17]
+ [18 <./rede.jpg>]
 Cap\'{\i }tulo 4.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 8.
-) (./conclusao.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 10.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 9.
- [18
+(babel)             in language  on input line 10.
+[19
 
 ]
 Cap\'{\i }tulo 5.
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 10.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 14.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 25.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 34.
+[20
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 79.
+ [21]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 84.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+ [22]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 132.
+ <hierarquia2.jpg, id=407, 531.9875pt x 399.4925pt>
+File: hierarquia2.jpg Graphic file (type jpg)
+
+<use hierarquia2.jpg>
+Package pdftex.def Info: hierarquia2.jpg used on input line 137.
+(pdftex.def)             Requested size: 531.9862pt x 399.49152pt.
+
+Overfull \hbox (105.19487pt too wide) in paragraph at lines 137--138
+ [][] 
+ []
+
+) (./conclusao.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 6.
+ [23]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
-<MeuSistema.jpg, id=270, 1060.56226pt x 430.0065pt>
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+ [24 <./hierarquia2.jpg>]
+Cap\'{\i }tulo 6.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+<MeuSistema.jpg, id=418, 1060.56226pt x 430.0065pt>
 File: MeuSistema.jpg Graphic file (type jpg)
  <use MeuSistema.jpg>
 Package pdftex.def Info: MeuSistema.jpg used on input line 23.
@@ -1209,7 +1281,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [19
+ [25
 
  <./MeuSistema.jpg>]
 
@@ -1221,7 +1293,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 251.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 251.
- [20
+ [26
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
@@ -1230,17 +1302,21 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
 Package rerunfilecheck Info: File `Academico-Trab2014-2015.out' has not changed
 .
-(rerunfilecheck)             Checksum: FFBD0900602154E704A5C66CA0BBDDAB;1716.
+(rerunfilecheck)             Checksum: 4FDF37AF2837ED7C9814DD3901FA0CDE;2144.
 Package rerunfilecheck Info: File `Academico-Trab2014-2015.brf' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
- 21234 strings out of 495004
- 375615 string characters out of 6180662
- 525924 words of memory out of 5000000
- 23907 multiletter control sequences out of 15000+600000
+ 21347 strings out of 495004
+ 376576 string characters out of 6180662
+ 526025 words of memory out of 5000000
+ 23923 multiletter control sequences out of 15000+600000
  22702 words of font info for 48 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  56i,11n,83p,964b,948s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1259,10 +1335,10 @@ fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/peixoto/.texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc1728.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jk
 nappen/ec/eccc2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb>
-Output written on Academico-Trab2014-2015.pdf (23 pages, 432593 bytes).
+Output written on Academico-Trab2014-2015.pdf (29 pages, 524871 bytes).
 PDF statistics:
- 883 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1060 PDF objects out of 1200 (max. 8388607)
+ 447 compressed objects within 5 object streams
+ 149 named destinations out of 1000 (max. 500000)
+ 417 words of extra memory for PDF output out of 10000 (max. 10000000)
 

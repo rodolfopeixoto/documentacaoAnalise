@@ -132,9 +132,3 @@ O ponto de vista indireto serão as pessoas tem interesse no sistema, porém nã
 \section {Hierarquia de Pontos de Vista}
 	
 É uma visão organizada e estruturada dos pontos de vista, no qual são mostrados todos os requisitos e pontos de vista do sistema, como mostra a Figura abaixo.
-   \begin{figure}[H]
-	      \centering
-	       \includegraphics{hierarquia2}
-	       \caption{Hierarquia de Pontos de Vista}
-	       \label{figRotulo}
-               \end{figure}

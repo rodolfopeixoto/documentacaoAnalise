@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.27)  12 FEB 2015 08:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.27)  26 FEB 2015 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1250,21 +1250,37 @@ Overfull \hbox (105.19487pt too wide) in paragraph at lines 137--138
  [][] 
  []
 
-) (./conclusao.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 6.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 6.
- [23]
+(babel)             in language  on input line 141.
+[23]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 144.
+ <diagrama1.jpg, id=413, 1108.14pt x 508.90125pt>
+File: diagrama1.jpg Graphic file (type jpg)
+ <use diagrama1.jpg>
+Package pdftex.def Info: diagrama1.jpg used on input line 152.
+(pdftex.def)             Requested size: 1108.1373pt x 508.90001pt.
+
+Overfull \hbox (681.34596pt too wide) in paragraph at lines 152--153
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 156.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 156.
+[24 <./hierarquia2.jpg>]) (./conclusao.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
- [24 <./hierarquia2.jpg>]
+ [25 <./diagrama1.jpg>]
 Cap\'{\i }tulo 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
-<MeuSistema.jpg, id=418, 1060.56226pt x 430.0065pt>
+<MeuSistema.jpg, id=425, 1060.56226pt x 430.0065pt>
 File: MeuSistema.jpg Graphic file (type jpg)
  <use MeuSistema.jpg>
 Package pdftex.def Info: MeuSistema.jpg used on input line 23.
@@ -1281,7 +1297,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [25
+ [26
 
  <./MeuSistema.jpg>]
 
@@ -1293,30 +1309,36 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 251.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 251.
- [26
+ [27
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
  (./Academico-Trab2014-2015.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
-Package rerunfilecheck Info: File `Academico-Trab2014-2015.out' has not changed
-.
-(rerunfilecheck)             Checksum: 4FDF37AF2837ED7C9814DD3901FA0CDE;2144.
+
+
+Package rerunfilecheck Warning: File `Academico-Trab2014-2015.out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Academico-Trab2014-2015.out':
+(rerunfilecheck)             Before: 4FDF37AF2837ED7C9814DD3901FA0CDE;2144
+(rerunfilecheck)             After:  1F017E989356CFAD2842BEEA7C959B41;2211.
 Package rerunfilecheck Info: File `Academico-Trab2014-2015.brf' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
- 21347 strings out of 495004
- 376576 string characters out of 6180662
- 526025 words of memory out of 5000000
- 23923 multiletter control sequences out of 15000+600000
+ 21355 strings out of 495004
+ 376688 string characters out of 6180662
+ 526022 words of memory out of 5000000
+ 23927 multiletter control sequences out of 15000+600000
  22702 words of font info for 48 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  56i,11n,83p,964b,948s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1335,10 +1357,10 @@ fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/peixoto/.texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc1728.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jk
 nappen/ec/eccc2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb>
-Output written on Academico-Trab2014-2015.pdf (29 pages, 524871 bytes).
+Output written on Academico-Trab2014-2015.pdf (30 pages, 592643 bytes).
 PDF statistics:
- 1060 PDF objects out of 1200 (max. 8388607)
- 447 compressed objects within 5 object streams
- 149 named destinations out of 1000 (max. 500000)
- 417 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1072 PDF objects out of 1200 (max. 8388607)
+ 453 compressed objects within 5 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 422 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -21,31 +21,37 @@
 \BOOKMARK [2][-]{subsection.3.1.6}{Defini\347\365es}{section.3.1}% 21
 \BOOKMARK [0][-]{chapter.4}{Projeto do Sistema}{}% 22
 \BOOKMARK [0][-]{chapter.5}{Pontos de Vista do Sistema}{}% 23
-\BOOKMARK [1][-]{section.5.1}{Direto}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.2}{Indireto}{chapter.5}% 25
-\BOOKMARK [1][-]{section.5.3}{Servi\347os}{chapter.5}% 26
-\BOOKMARK [2][-]{subsection.5.3.1}{Direto:}{section.5.3}% 27
-\BOOKMARK [2][-]{subsection.5.3.2}{Indireto:}{section.5.3}% 28
-\BOOKMARK [1][-]{section.5.4}{Hierarquia de Pontos de Vista}{chapter.5}% 29
-\BOOKMARK [1][-]{section.5.5}{Modelagem do Sistema}{chapter.5}% 30
-\BOOKMARK [1][-]{section.5.6}{Entrevista}{chapter.5}% 31
-\BOOKMARK [2][-]{subsection.5.6.1}{Sele\347\343o de entrevistados}{section.5.6}% 32
-\BOOKMARK [2][-]{subsection.5.6.2}{Planejamento das Perguntas: 3 tipos}{section.5.6}% 33
-\BOOKMARK [2][-]{subsection.5.6.3}{Prepara\347\343o para entrevista}{section.5.6}% 34
-\BOOKMARK [2][-]{subsection.5.6.4}{Condu\347\343o da Entrevista}{section.5.6}% 35
-\BOOKMARK [2][-]{subsection.5.6.5}{Acompanhamento ap\363s entrevista: relat\363rio}{section.5.6}% 36
-\BOOKMARK [1][-]{section.5.7}{Modelagem do Sistema}{chapter.5}% 37
-\BOOKMARK [2][-]{subsection.5.7.1}{Diagrama de contexto}{section.5.7}% 38
-\BOOKMARK [2][-]{subsection.5.7.2}{Diagrama de Fluxo de Dados}{section.5.7}% 39
-\BOOKMARK [2][-]{subsection.5.7.3}{Entidade de Relacionamento}{section.5.7}% 40
-\BOOKMARK [2][-]{subsection.5.7.4}{DFD F\355sico}{section.5.7}% 41
-\BOOKMARK [2][-]{subsection.5.7.5}{ER F\355sico}{section.5.7}% 42
-\BOOKMARK [1][-]{section.5.8}{Estrat\351gia do Sistema}{chapter.5}% 43
-\BOOKMARK [2][-]{subsection.5.8.1}{Desenvolvimento Personalizado}{section.5.8}% 44
-\BOOKMARK [2][-]{subsection.5.8.2}{Sistema Pronto}{section.5.8}% 45
-\BOOKMARK [2][-]{subsection.5.8.3}{Terceiriza\347\343o}{section.5.8}% 46
-\BOOKMARK [2][-]{subsection.5.8.4}{Estrat\351gia do Projeto}{section.5.8}% 47
-\BOOKMARK [1][-]{section.5.9}{Arquitetura do Sistema}{chapter.5}% 48
-\BOOKMARK [2][-]{subsection.5.9.1}{Estilos de Arquitetura}{section.5.9}% 49
-\BOOKMARK [0][-]{chapter.6}{Conclus\365es}{}% 50
-\BOOKMARK [0][-]{figure.6.1}{Bibliograf\355a}{}% 51
+\BOOKMARK [1][-]{section.5.1}{StakHolders}{chapter.5}% 24
+\BOOKMARK [2][-]{subsection.5.1.1}{Direto}{section.5.1}% 25
+\BOOKMARK [2][-]{subsection.5.1.2}{Indireto}{section.5.1}% 26
+\BOOKMARK [1][-]{section.5.2}{Servi\347os}{chapter.5}% 27
+\BOOKMARK [2][-]{subsection.5.2.1}{Direto:}{section.5.2}% 28
+\BOOKMARK [2][-]{subsection.5.2.2}{Indireto:}{section.5.2}% 29
+\BOOKMARK [1][-]{section.5.3}{Hierarquia de Pontos de Vista}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.4}{Modelagem do Sistema}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.5}{Entrevista}{chapter.5}% 32
+\BOOKMARK [2][-]{subsection.5.5.1}{Sele\347\343o de entrevistados}{section.5.5}% 33
+\BOOKMARK [2][-]{subsection.5.5.2}{Planejamento das Perguntas: 3 tipos}{section.5.5}% 34
+\BOOKMARK [2][-]{subsection.5.5.3}{Prepara\347\343o para entrevista}{section.5.5}% 35
+\BOOKMARK [2][-]{subsection.5.5.4}{Condu\347\343o da Entrevista}{section.5.5}% 36
+\BOOKMARK [2][-]{subsection.5.5.5}{Acompanhamento ap\363s entrevista: relat\363rio}{section.5.5}% 37
+\BOOKMARK [1][-]{section.5.6}{Modelagem do Sistema}{chapter.5}% 38
+\BOOKMARK [2][-]{subsection.5.6.1}{Diagrama de contexto}{section.5.6}% 39
+\BOOKMARK [2][-]{subsection.5.6.2}{Diagrama de Fluxo de Dados}{section.5.6}% 40
+\BOOKMARK [2][-]{subsection.5.6.3}{Entidade de Relacionamento}{section.5.6}% 41
+\BOOKMARK [2][-]{subsection.5.6.4}{DFD F\355sico}{section.5.6}% 42
+\BOOKMARK [2][-]{subsection.5.6.5}{ER F\355sico}{section.5.6}% 43
+\BOOKMARK [1][-]{section.5.7}{Estrat\351gia do Sistema}{chapter.5}% 44
+\BOOKMARK [2][-]{subsection.5.7.1}{Desenvolvimento Personalizado}{section.5.7}% 45
+\BOOKMARK [2][-]{subsection.5.7.2}{Sistema Pronto}{section.5.7}% 46
+\BOOKMARK [2][-]{subsection.5.7.3}{Terceiriza\347\343o}{section.5.7}% 47
+\BOOKMARK [2][-]{subsection.5.7.4}{Estrat\351gia do Projeto}{section.5.7}% 48
+\BOOKMARK [1][-]{section.5.8}{Arquitetura do Sistema}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.8.1}{Estilo de Arquitetura}{section.5.8}% 50
+\BOOKMARK [2][-]{subsection.5.8.2}{Arquitetura do Sistema}{section.5.8}% 51
+\BOOKMARK [2][-]{subsection.5.8.3}{Arquitetura de Hardware}{section.5.8}% 52
+\BOOKMARK [2][-]{subsection.5.8.4}{Arquitetura de Software}{section.5.8}% 53
+\BOOKMARK [1][-]{section.5.9}{Projeto Interface}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.9.1}{Estilos de Arquitetura}{section.5.9}% 55
+\BOOKMARK [0][-]{chapter.6}{Conclus\365es}{}% 56
+\BOOKMARK [0][-]{figure.6.1}{Bibliograf\355a}{}% 57

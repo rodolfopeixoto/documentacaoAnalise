@@ -23,31 +23,37 @@
 \contentsline {subsection}{\numberline {3.1.6}Defini\IeC {\c c}\IeC {\~o}es}{16}{subsection.3.1.6}
 \contentsline {chapter}{\numberline {4}Projeto do Sistema}{19}{chapter.4}
 \contentsline {chapter}{\numberline {5}Pontos de Vista do Sistema}{20}{chapter.5}
-\contentsline {section}{\numberline {5.1}Direto}{20}{section.5.1}
-\contentsline {section}{\numberline {5.2}Indireto}{20}{section.5.2}
-\contentsline {section}{\numberline {5.3}Servi\IeC {\c c}os}{21}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Direto:}{21}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Indireto:}{22}{subsection.5.3.2}
-\contentsline {section}{\numberline {5.4}Hierarquia de Pontos de Vista}{23}{section.5.4}
-\contentsline {section}{\numberline {5.5}Modelagem do Sistema}{24}{section.5.5}
-\contentsline {section}{\numberline {5.6}Entrevista}{25}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}Sele\IeC {\c c}\IeC {\~a}o de entrevistados}{26}{subsection.5.6.1}
-\contentsline {subsection}{\numberline {5.6.2}Planejamento das Perguntas: 3 tipos}{26}{subsection.5.6.2}
-\contentsline {subsection}{\numberline {5.6.3}Prepara\IeC {\c c}\IeC {\~a}o para entrevista}{27}{subsection.5.6.3}
-\contentsline {subsection}{\numberline {5.6.4}Condu\IeC {\c c}\IeC {\~a}o da Entrevista}{27}{subsection.5.6.4}
-\contentsline {subsection}{\numberline {5.6.5}Acompanhamento ap\IeC {\'o}s entrevista: relat\IeC {\'o}rio}{28}{subsection.5.6.5}
-\contentsline {section}{\numberline {5.7}Modelagem do Sistema}{28}{section.5.7}
-\contentsline {subsection}{\numberline {5.7.1}Diagrama de contexto}{29}{subsection.5.7.1}
-\contentsline {subsection}{\numberline {5.7.2}Diagrama de Fluxo de Dados}{29}{subsection.5.7.2}
-\contentsline {subsection}{\numberline {5.7.3}Entidade de Relacionamento}{29}{subsection.5.7.3}
-\contentsline {subsection}{\numberline {5.7.4}DFD F\IeC {\'\i }sico}{29}{subsection.5.7.4}
-\contentsline {subsection}{\numberline {5.7.5}ER F\IeC {\'\i }sico}{30}{subsection.5.7.5}
-\contentsline {section}{\numberline {5.8}Estrat\IeC {\'e}gia do Sistema}{30}{section.5.8}
-\contentsline {subsection}{\numberline {5.8.1}Desenvolvimento Personalizado}{30}{subsection.5.8.1}
-\contentsline {subsection}{\numberline {5.8.2}Sistema Pronto}{30}{subsection.5.8.2}
-\contentsline {subsection}{\numberline {5.8.3}Terceiriza\IeC {\c c}\IeC {\~a}o}{30}{subsection.5.8.3}
-\contentsline {subsection}{\numberline {5.8.4}Estrat\IeC {\'e}gia do Projeto}{30}{subsection.5.8.4}
-\contentsline {section}{\numberline {5.9}Arquitetura do Sistema}{31}{section.5.9}
-\contentsline {subsection}{\numberline {5.9.1}Estilos de Arquitetura}{31}{subsection.5.9.1}
-\contentsline {chapter}{\numberline {6}Conclus\~{o}es}{32}{chapter.6}
-\contentsline {chapter}{Bibliograf\'{\i }a}{32}{figure.6.1}
+\contentsline {section}{\numberline {5.1}StakHolders}{20}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Direto}{20}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Indireto}{21}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Servi\IeC {\c c}os}{21}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Direto:}{21}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Indireto:}{22}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Hierarquia de Pontos de Vista}{23}{section.5.3}
+\contentsline {section}{\numberline {5.4}Modelagem do Sistema}{24}{section.5.4}
+\contentsline {section}{\numberline {5.5}Entrevista}{25}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Sele\IeC {\c c}\IeC {\~a}o de entrevistados}{25}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Planejamento das Perguntas: 3 tipos}{25}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Prepara\IeC {\c c}\IeC {\~a}o para entrevista}{26}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Condu\IeC {\c c}\IeC {\~a}o da Entrevista}{26}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.5.5}Acompanhamento ap\IeC {\'o}s entrevista: relat\IeC {\'o}rio}{28}{subsection.5.5.5}
+\contentsline {section}{\numberline {5.6}Modelagem do Sistema}{28}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Diagrama de contexto}{28}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Diagrama de Fluxo de Dados}{29}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Entidade de Relacionamento}{30}{subsection.5.6.3}
+\contentsline {subsection}{\numberline {5.6.4}DFD F\IeC {\'\i }sico}{31}{subsection.5.6.4}
+\contentsline {subsection}{\numberline {5.6.5}ER F\IeC {\'\i }sico}{32}{subsection.5.6.5}
+\contentsline {section}{\numberline {5.7}Estrat\IeC {\'e}gia do Sistema}{33}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Desenvolvimento Personalizado}{33}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {5.7.2}Sistema Pronto}{33}{subsection.5.7.2}
+\contentsline {subsection}{\numberline {5.7.3}Terceiriza\IeC {\c c}\IeC {\~a}o}{33}{subsection.5.7.3}
+\contentsline {subsection}{\numberline {5.7.4}Estrat\IeC {\'e}gia do Projeto}{33}{subsection.5.7.4}
+\contentsline {section}{\numberline {5.8}Arquitetura do Sistema}{33}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Estilo de Arquitetura}{34}{subsection.5.8.1}
+\contentsline {subsection}{\numberline {5.8.2}Arquitetura do Sistema}{34}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}Arquitetura de Hardware}{35}{subsection.5.8.3}
+\contentsline {subsection}{\numberline {5.8.4}Arquitetura de Software}{37}{subsection.5.8.4}
+\contentsline {section}{\numberline {5.9}Projeto Interface}{38}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}Estilos de Arquitetura}{40}{subsection.5.9.1}
+\contentsline {chapter}{\numberline {6}Conclus\~{o}es}{41}{chapter.6}
+\contentsline {chapter}{Bibliograf\'{\i }a}{41}{figure.6.1}

@@ -134,7 +134,7 @@ O ponto de vista indireto serão as pessoas tem interesse no sistema, porém nã
 É uma visão organizada e estruturada dos pontos de vista, no qual são mostrados todos os requisitos e pontos de vista do sistema, como mostra a Figura abaixo.
    \begin{figure}[H]
 	      \centering
-	       \includegraphics{hierarquia2}
+	       \includegraphics[width=15cm]{hierarquia2}
 	       \caption{Hierarquia de Pontos de Vista}
 	       \label{figRotulo}
                \end{figure}
@@ -149,7 +149,7 @@ O ponto de vista indireto serão as pessoas tem interesse no sistema, porém nã
  
    \begin{figure}[H]
 	      \centering
-	       \includegraphics{diagrama1.jpg}
+	       \includegraphics[width=15cm]{diagramaContexto.jpg}
 	       \caption{Modelo do sistema}
 	       \label{figRotulo}
                \end{figure}
@@ -255,28 +255,29 @@ Resposta: Sim, não há problema.
 
 Jennifer de Souza
 Há reclamações após a implantação do sistema?
-Resposta:
+Resposta: Não, a comunidade está bem satisfeita.
 
 Há comunidade se adaptou facilmente ao sistema?
-Resposta:
+Resposta: Sim.
 
 Foi registrado aumento na produtividade dos funcionários?
-Resposta:
+Resposta: Sim, pois os funcionários obtem qualquer documento ou dados pelo sistema.
 
 José Cezar
 Você consegue gerenciar o sistema facilmente?
-Resposta:
+Resposta: Sim, obtenho qualquer informação da universidade em 1 click.
 
 O Sistema está intuitivo?
-Resposta:
+Resposta: Sim, ótimo gráficos e muito iterativo.
 
 O Sistema atualiza os gráficos corretamente?
-Resposta:
+Resposta: Sim.
 
 Perguntas Abertas:
-Em sua opinião, o novo sistema tem facilito e agilizado seu trabalho de forma geral?
+Em sua opinião, o novo sistema tem facilito e agilizado seu trabalho/estudo de forma geral?
 Respostas:
-André da Silva: Absolutamente sim, também do jeito que aumentou a demanda não sei como poderia trabalhar sem ele.
+
+Rodolfo da Silva: Absolutamente sim, pos hoje não tenho que esperar horas e horas para ter uma informação.
 
 Fernando Barreto: Com certeza, eficiente e seguro, definitivamente o novo sistema foi um bom investimento.
 
@@ -284,7 +285,7 @@ Marco Antônio: Sim e muito, com o sistema de relatórios não fico tão estress
 
 Jennifer de Souza: Claro que sim, só de não ter que lidar com as reclamações de antigamente já é um grande alívio.
 
-José Cezar: Facilitou e muito, o trabalho ficou bem menos monótono, e mais fácil visto que o GPS e as novas coordenadas me ajudarem a chegar rapidamente e facilmente ao local certo.
+José Cezar: Com certeza, pois hoje posso saber tudo da universidade.
 
 O que você acha que poderia mudar, ser acrescentado ou retirado, no novo sistema que agilizaria e facilitaria ainda mais o seu trabalho?
 Respostas:
@@ -298,39 +299,153 @@ Tudo ocorreu como planejado, os entrevistados se sentiram à vontade com o tom d
 É um modelo abstrato do sistema representando uma visão ou perspectiva. Para o sistema da empresa DECKEL COMPANY são construídos modelos que explicam as características e o comportamento de todo o sistema na base de software.
 
 \subsection{Diagrama de contexto}
-Mostra como as partes interessadas e outras entidades (Figura 7.1) interagem com o sistema indicando suas entradas e saídas.
-captions(Figura 7.1: Diagrama de Contexto do sistema)
+Mostra como as partes interessadas e outras entidades (Figura 5.4) interagem com o sistema indicando suas entradas e saídas.
+               
+
+               \begin{figure}[H]
+                 \caption{Diagrama de Contexto}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/DiagramadeContexto} % leia abaixo
+                \label{figura:DiagramadeContexto}
+                \end{figure}
+                Na Fig. \ref{figura:DiagramadeContexto} , há uma visão mais geral do sistema ...
+                
 
 \subsection{Diagrama de Fluxo de Dados}
 O DFD é uma técnica usada na programação estruturada de diagramação de software que possui diversos tipos de diagramas, podendo ser derivados em outros diagramas. O diagrama apresenta um modelo de organização do sistema.
 
+                
+                 
+               
+                  
+               \begin{figure}[H]
+               \caption{Nível 0}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/DFDFisico} % leia abaixo
+                \label{figura:DFDFisico}
+                \end{figure}
+                Na Fig. \ref{figura:DFDFisico} , há uma visão geral, porém mais detalhada do que o diagrama de contexto. ...
+                  
+              
+                  
+               \begin{figure}[H]
+               \caption{Nível 1}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/Nivel1} % leia abaixo
+                \label{figura:Nivel1}
+                \end{figure}
+                Na Fig. \ref{figura:Nivel1} , verificamos detalhes de um processo com uma entidade.
+                  
+                
+                  
+               \begin{figure}[H]
+               \caption{Nível 2}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/Nivel2} % leia abaixo
+                \label{figura:Nivel2}
+                \end{figure}
+                Na Fig. \ref{figura:Nivel2} , verificamos com mais riqueza de detalhes os processos, entidades e os bancos de dados.
+             
+                
 
 \subsection{Entidade de Relacionamento}
 É um modelo que mostra as informações que são criadas, armazenadas e usadas pelo sistema.
-No diagrama (como mostra a Figura 7.5) está representado um modelo que é usado para ajudar o desenvolvimento de um banco de dados.
+No diagrama (como mostra a Figura  \ref{figura:EntidadedeRelacionamento}) está representado um modelo que é usado para ajudar o desenvolvimento de um banco de dados.
+ 
+ Um dicionário de dados (do inglês data dictionary) é uma coleção de metadados que contêm definições e representações de elementos de dados.
+
+Dentro do contexto de SGBD, um dicionário de dados é um grupo de tabelas, habilitadas apenas para leitura ou consulta, ou seja, é uma base de dados, propriamente dita, que entre outras coisas, mantém as seguintes informações:
+
+\begin{itemize}
+ \item Definição precisa sobre elementos de dados
+ \item Definição precisa sobre elementos de dados
+ \item Perfis de usuários, papéis e privilégios
+ \item Descrição de objetos
+ \item Restrições de integridade
+  \item Stored procedures (pequeno trecho de programa de computador, armazenado em um SGBD, que pode ser chamado freqüentemente por um programa principal) e gatilhos
+  \item Estrutura geral da base de dados
+  \item Informação de verificação
+  \item Alocações de espaço
+  \item Índices
+\end{itemize}
+
+Metadados, ou Metainformação, são dados sobre outros dados. Um item de um metadado pode dizer do que se trata aquele dado, geralmente uma informação inteligível por um computador. 
+Os metadados facilitam o entendimento dos relacionamentos e a utilidade das informações dos dados.
+
+ 
+ 
+               \begin{figure}[H]
+                 \caption{Entidade de Relacionamento}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/SAcademicoERD} % leia abaixo
+                \label{figura:EntidadedeRelacionamento}
+                \end{figure}
+                Na Fig. \ref{figura:EntidadedeRelacionamento} , há uma visão das tabelas do banco de dados ...
 
 \subsection{DFD Físico}
-O DFD físico representa o modo como o sistema é implementado fisicamente. Já o DFD lógico representa apenas os processos de negócio, independentemente da maneira como são implementados. A Figura 7.6 representa a implementação de um DFD lógico para um DFD físico.
+O DFD físico representa o modo como o sistema é implementado fisicamente. Já o DFD lógico representa apenas os processos de negócio, independentemente da maneira como são implementados. A Figura \ref{figura:DFDFisico} representa a implementação de um DFD lógico para um DFD físico.
+
+
+
+               \begin{figure}[H]
+                 \caption{Diagrama De Fluxo de Dados Físico}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/DFDFisico} % leia abaixo
+                \label{figura:DFDFisico}
+                \end{figure}
+                Na Fig. \ref{figura:DFDFisico} , há uma visão dos Diagramas De Fluxo de Dados
+                
+              
 
 \subsection{ER Físico}
 O ER físico apresenta mais detalhes sobre o ER (Diagrama Entidade-Relacionamento) com informações mais específicas sobre o banco de dados escolhido. Enquanto o ER lógico preocupa-se mais com os conceitos e formas de organização lógica dos dados. A Figura 7.7 representa o modelo do ER físico no Sistema de Caminhão.
 
+
+
+       \begin{figure}[H]
+                 \caption{Diagrama Entidade Relacionamento}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/ERFisico} % leia abaixo
+                \label{figura:ERFisico}
+                \end{figure}
+                Na Fig. \ref{figura:ERFisico} , há uma visão dos Diagramas Entidade Relacionamento
+
 \section{Estratégia do Sistema}
 
+
 \subsection{Desenvolvimento Personalizado}
- O desenvolvimento personalizado é aquele no qual o desenvolvedor dentro da empresa possui o controle total sobre sua a aparência e funcionalidade. O sistema permite ser flexível e criativo na maneira de solucionar problemas operacionais.
+ O desenvolvimento personalizado é aquele no qual o desenvolvedor dentro da empresa possui o controle total sobre sua a aparência e funcionalidade. 
+ O sistema permite ser flexível e criativo na maneira de solucionar problemas operacionais.
+ Sistema de futebol, onde tudo deve ser personalizado e feito de forma a agregar os devidos valores para aquele seguimento.
 
 \subsection{Sistema Pronto}
 Existem muitos sistemas prontos que são comercializados para as empresas, a melhor qualidade desses sistemas são seu curto tempo de prazo, já que muitas vezes o empreendedor necessita do sistema com urgência, economizando muito tempo gasto em sua criação. O sistema a ser escolhido é sempre o que melhor atende as exigências da empresa.
-
+Sistema de vendas online, poderá ser feito utilizando sistemas prontos, já que criar um do zero iria gerar mais custos do que do que comprar um já pronto.
 \subsection{Terceirização}
  Esse serviço é utilizado na contratação de um fornecedor, desenvolvedor ou provedor de serviço externo para criar o sistema. Essas pessoas além de serem mais experientes na tecnologia, dispõem de mais recursos humanos qualificados.
-
+ O sistema acadêmico poderia ser comprado, já que existem grandes marcas já estabelecidads.
 \subsection{Estratégia do Projeto}
  Nas tabelas abaixo foram elaboradas os três tipos de Estratégias de Projeto para três situações reais diferentes, sendo que uma delas é o sistema desenvolvido neste documento (Figura 8.1, Figura 8.2 e Figura 8.3).
  
 \section{Arquitetura do Sistema}
 Na arquitetura são determinadas as necessidades de todas as pessoas envolvidas ou afetadas por qualquer mudança no sistema. É feita uma análise de alto nível nos requisitos do sistema, baseada nas necessidades dos usuários ou de restrições como custos e cronograma.
+
+\subsection{Estilo de Arquitetura}
+  \subsection{Arquitetura do Sistema}
+  
+  Possui os componentes de software, suas propriedades externas e seus relacionamentos com outros softwares já existentes,
+  além de estar ligada também com a arquitetura de hardware do sistema.
+  S
+  Abaixo são mostrados dois modelos de arquitetura de hardware (Figura 9.3 e Figura 9.4).
+
+       \begin{figure}[H]
+                 \caption{Diagrama Entidade Relacionamento}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=13cm]{analisedeProjeto/ERFisico} % leia abaixo
+                \label{figura:ERFisico}
+                \end{figure}
+                Na Fig. \ref{figura:ERFisico} , há uma visão dos Diagramas Entidade Relacionamento
+
 
 \subsection{Estilos de Arquitetura}
 Arquitetura do Sistema

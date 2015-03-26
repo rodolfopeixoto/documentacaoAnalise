@@ -7,11 +7,26 @@
 
 \chapter{Projeto do Sistema}
 
-\chapter{Pontos de Vista do Sistema}
+\section{Pontos de Vista do Sistema}
 
 São diferentes formas e perspectivas de enxergar o sistema. O sistema pode ser visto de várias maneiras, sendo eles divididos em grupos para ter uma visão mais clara.
 
-\section {Direto}
+\subsection{StakHolders}
+
+\begin{enumerate}
+\item Alunos
+\item Professores
+\item Gerente de redes
+\item Equipe de desenvolvimento
+\item Funcionários
+\item Governo
+\item Área financeira
+\item Fornecedores
+\item Vestibulando 
+\item Área Limpeza
+\end{enumerate}
+
+\subsection {Direto}
 
 Entidades que fornecem informação ao sistema diretamente e recebe informações destes diretamente:
 
@@ -22,9 +37,9 @@ Entidades que fornecem informação ao sistema diretamente e recebe informaçõe
 \item Equipe de desenvolvimento
 \item Funcionários
 
-\section {Indireto}
+\subsection {Indireto}
 
-O ponto de vista indireto serão as pessoas tem interesse no sistema, porém não trabalham diretamente com o sistema:
+O ponto de vista indireto serão as pessoas tem interesse no sistema, porém não trabalham indiretamente com o sistema:
 
 \item Governo
 \item Área financeira
@@ -427,26 +442,163 @@ Sistema de vendas online, poderá ser feito utilizando sistemas prontos, já que
 \subsection{Estratégia do Projeto}
  Nas tabelas abaixo foram elaboradas os três tipos de Estratégias de Projeto para três situações reais diferentes, sendo que uma delas é o sistema desenvolvido neste documento (Figura 8.1, Figura 8.2 e Figura 8.3).
  
+\begin{table}[h]
+\small
+\begin{tabular}{|p{2cm}|p{1cm}|p{4cm}|p{0.5cm}|p{4cm}|p{4cm}p{4cm}p{4cm}}
+\hline
+\multicolumn{8}{|c|}{Sistema Acadêmico}                                                                                                                                                                                                                                                                                                                                                   \\ \hline
+Critérios                 & Peso & Desenvolvimento\\Personalizado                              & 1-5 & \begin{tabular}[c]{@{}l@{}}Sistema\\ Pronto\end{tabular}                                     & 1-5 & Terceirização                                                                                                                          & 1-5 \\ \hline
+Cronograma                & 5    & \begin{tabular}[c]{@{}l@{}}O cronograma é flexível\end{tabular}                            & 3   & \begin{tabular}[c]{@{}l@{}}O\\ cronograma é curto\end{tabular}                               & 5   & \begin{tabular}[c]{@{}l@{}}O\\ cronograma é curto\end{tabular}                                                                         & 4   \\ \hline
+Modificação               & 5    & \begin{tabular}[c]{@{}l@{}}O sistema pode ser\\ modificado\end{tabular}                      & 5   & \begin{tabular}[c]{@{}l@{}}O\\ sistema não pode ser modificado\end{tabular}                  & 2   & \begin{tabular}[c]{@{}l@{}}O\\ sistema pode ser modificado em alguns detalhes\end{tabular}                                             & 3   \\ \hline
+Experiência Interna       & 10   & \begin{tabular}[c]{@{}l@{}}O sistema fornece o \\cadastro para clientes\end{tabular}         & 5   & \begin{tabular}[c]{@{}l@{}}O\\ sistema fornece o cadastro para clientes\end{tabular}         & 5   & \begin{tabular}[c]{@{}l@{}}O\\ sistema fornece o cadastro para clientes\end{tabular}                                                   & 5   \\ \hline
+Agilidade                 & 20   & \begin{tabular}[c]{@{}l@{}}O sistema é executado\\ de forma rápida e eficiente\end{tabular}  & 5   & \begin{tabular}[c]{@{}l@{}}O\\ sistema é executado de forma rápida e eficiente\end{tabular}  & 5   & \begin{tabular}[c]{@{}l@{}}O\\ sistema é executado de forma rápida e eficiente de acordo com os\\ critérios do fornecedor\end{tabular} & 4   \\ \hline
+Qualificações do Proejeto & 10   & \begin{tabular}[c]{@{}l@{}}Há um desejo de\\ desenvolver qualificações\\ internas\end{tabular} & 4   & \begin{tabular}[c]{@{}l@{}}Há\\ um desejo de desenvolver qualificações internas\end{tabular} & 3   & \begin{tabular}[c]{@{}l@{}}As\\ habilidades são estratégicas\end{tabular}                                                              & 4   \\ \hline
+\end{tabular}
+\end{table}
+ 
+ 
 \section{Arquitetura do Sistema}
 Na arquitetura são determinadas as necessidades de todas as pessoas envolvidas ou afetadas por qualquer mudança no sistema. É feita uma análise de alto nível nos requisitos do sistema, baseada nas necessidades dos usuários ou de restrições como custos e cronograma.
 
 \subsection{Estilo de Arquitetura}
   \subsection{Arquitetura do Sistema}
   
-  Possui os componentes de software, suas propriedades externas e seus relacionamentos com outros softwares já existentes,
-  além de estar ligada também com a arquitetura de hardware do sistema.
-  S
-  Abaixo são mostrados dois modelos de arquitetura de hardware (Figura 9.3 e Figura 9.4).
-
+ 
+  São as componentes do software, atributos externos e a comunicaç~ao com os outros softwares existentes, além de estar ligada também com a 
+  arquitetura de hardware do sistema
+  Abaixo são mostrados dois modelos de arquitetura de harware \ref{figura:ArquiteturaDeSoftware} e \ref{figura:modelo2Arquitetura}
+  
+   \textbf{Modelo 1 - Arquitetura de Sistema }
+  
        \begin{figure}[H]
-                 \caption{Diagrama Entidade Relacionamento}
+                 \caption{Modelo - Arquitetura de Sistema}
                \centering % para centralizarmos a figura
-                \includegraphics[width=13cm]{analisedeProjeto/ERFisico} % leia abaixo
-                \label{figura:ERFisico}
+                \includegraphics[width=10cm]{analisedeProjeto/ArquiteturaDeSoftware} % leia abaixo
+                \label{figura:ArquiteturaDeSoftware}
                 \end{figure}
-                Na Fig. \ref{figura:ERFisico} , há uma visão dos Diagramas Entidade Relacionamento
+                Na Fig. \ref{figura:ArquiteturaDeSoftware} , há uma da arquitetura do Sistema modelo 1
+                
+                
+                     \textbf{Modelo 2 - Arquitetura de Sistema }  
+                
+                
+                  \begin{figure}[H]
+                 \caption{Modelo - Arquitetura de Sistema}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/modelo2Arquitetura} % leia abaixo
+                \label{figura:modelo2Arquitetura}
+                \end{figure}
+                Na Fig. \ref{figura:modelo2Arquitetura} , há uma da arquitetura do Sistema modelo 2
 
 
+                
+                  \subsection{Arquitetura de Hardware}
+  
+ 
+É composta por toda a parte física que está relacionada com o sistema. Possui os componentes de hardware, suas propriedades externas e seus relacionamentos com outros hardwares já existentes
+Abaixo são mostrados dois modelos de arquitetura de hardware   \ref{figura:arquiteturaDeHardware} e \ref{figura:arcloud}
+  
+   \textbf{Modelo 1 - Arquitetura de Hardware }
+  
+       \begin{figure}[H]
+                 \caption{Modelo - Arquitetura de Hardware}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/arquiteturaDeHardware} % leia abaixo
+                \label{figura:arquiteturaDeHardware}
+                \end{figure}
+                Na Fig. \ref{figura:arquiteturaDeHardware} , há uma da arquitetura de Hardware modelo 1
+                
+                
+                     \textbf{Modelo 2 - Arquitetura de Hardware }  
+                
+                
+                  \begin{figure}[H]
+                 \caption{Modelo - Arquitetura de Hardware}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/arcloud} % leia abaixo
+                \label{figura:arcloud}
+                \end{figure}
+                Na Fig. \ref{figura:arcloud} , há uma da arquitetura de Hardware modelo 2
+                
+                
+                
+                  \subsection{Arquitetura de Software}
+  
+ 
+É composta por toda a parte física que está relacionada com o sistema. Possui os componentes de hardware, suas propriedades externas e seus relacionamentos com outros hardwares já existentes
+Abaixo são mostrados dois modelos de arquitetura de hardware   \ref{figura:arsoft} e \ref{figura:arSoft2}
+  
+   \textbf{Modelo 1 - Arquitetura de Software }
+  
+       \begin{figure}[H]
+                 \caption{Modelo - Arquitetura de Software}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/arsoft} % leia abaixo
+                \label{figura:arsoft}
+                \end{figure}
+                Na Fig. \ref{figura:arsoft} , há uma da arquitetura de Software modelo 1
+                
+                
+                     \textbf{Modelo 2 - Arquitetura de Software }  
+                
+                
+                  \begin{figure}[H]
+                 \caption{Modelo - Arquitetura de Software}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/arSoft2} % leia abaixo
+                \label{figura:arSoft2}
+                \end{figure}
+                Na Fig. \ref{figura:arSoft2} , há uma da arquitetura de Software modelo 2
+                
+                
+                
+                
+                
+                
+                
+                \section{Projeto Interface}
+                
+                 
+               \begin{figure}[H]
+                 \caption{Menu}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/menu} % leia abaixo
+                \label{figura:menu}
+                \end{figure}
+                Na Fig. \ref{figura:menu} ,  você pode visualizar o menu
+                
+                
+                               \begin{figure}[H]
+                 \caption{Menu}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/menuTime} % leia abaixo
+                \label{figura:menuTime}
+                \end{figure}
+                Na Fig. \ref{figura:menuTime} ,  você pode visualizar o menu
+                
+
+
+               \begin{figure}[H]
+               \caption{Formulário 1}
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/form1} % leia abaixo
+                \label{figura:form1}
+                \end{figure}
+                Na Fig. \ref{figura:form1} , você pode visualizar os formulários
+                
+                
+                \begin{figure}[H]
+                 \caption{Formulário }
+               \centering % para centralizarmos a figura
+                \includegraphics[width=10cm]{analisedeProjeto/form2} % leia abaixo
+                \label{figura:form2}
+                \end{figure}
+                Na Fig. \ref{figura:form2} ,  você pode visualizar os formulários
+
+
+
+
+                
 \subsection{Estilos de Arquitetura}
 Arquitetura do Sistema
 Possui os componentes de software, suas propriedades externas e seus relacionamentos com outros softwares já existentes, além de estar ligada também com a arquitetura de hardware do sistema. Abaixo são mostrados dois modelos de arquitetura de hardware (Figura 9.3 e Figura 9.4).

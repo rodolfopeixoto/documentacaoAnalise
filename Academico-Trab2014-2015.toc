@@ -48,12 +48,12 @@
 \contentsline {subsection}{\numberline {4.7.2}Sistema Pronto}{32}{subsection.4.7.2}
 \contentsline {subsection}{\numberline {4.7.3}Terceiriza\IeC {\c c}\IeC {\~a}o}{32}{subsection.4.7.3}
 \contentsline {subsection}{\numberline {4.7.4}Estrat\IeC {\'e}gia do Projeto}{32}{subsection.4.7.4}
-\contentsline {section}{\numberline {4.8}Arquitetura do Sistema}{32}{section.4.8}
-\contentsline {subsection}{\numberline {4.8.1}Estilo de Arquitetura}{33}{subsection.4.8.1}
-\contentsline {subsection}{\numberline {4.8.2}Arquitetura do Sistema}{33}{subsection.4.8.2}
-\contentsline {subsection}{\numberline {4.8.3}Arquitetura de Hardware}{34}{subsection.4.8.3}
-\contentsline {subsection}{\numberline {4.8.4}Arquitetura de Software}{36}{subsection.4.8.4}
-\contentsline {section}{\numberline {4.9}Projeto Interface}{37}{section.4.9}
-\contentsline {subsection}{\numberline {4.9.1}Estilos de Arquitetura}{39}{subsection.4.9.1}
-\contentsline {chapter}{\numberline {5}Conclus\~{o}es}{40}{chapter.5}
-\contentsline {chapter}{Bibliograf\'{\i }a}{40}{figure.5.1}
+\contentsline {section}{\numberline {4.8}Arquitetura do Sistema}{34}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}Estilo de Arquitetura}{34}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {4.8.2}Arquitetura do Sistema}{34}{subsection.4.8.2}
+\contentsline {subsection}{\numberline {4.8.3}Arquitetura de Hardware}{36}{subsection.4.8.3}
+\contentsline {subsection}{\numberline {4.8.4}Arquitetura de Software}{37}{subsection.4.8.4}
+\contentsline {section}{\numberline {4.9}Projeto Interface}{38}{section.4.9}
+\contentsline {subsection}{\numberline {4.9.1}Estilos de Arquitetura}{40}{subsection.4.9.1}
+\contentsline {chapter}{\numberline {5}Conclus\~{o}es}{41}{chapter.5}
+\contentsline {chapter}{Bibliograf\'{\i }a}{41}{figure.5.1}

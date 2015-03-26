@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.27)  25 MAR 2015 19:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.27)  25 MAR 2015 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1244,7 +1244,7 @@ Package babel Info: Redefining portuges shorthand "|
  [21]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 147.
- <hierarquia2.jpg, id=588, 531.9875pt x 399.4925pt>
+ <hierarquia2.jpg, id=581, 531.9875pt x 399.4925pt>
 File: hierarquia2.jpg Graphic file (type jpg)
 
 <use hierarquia2.jpg>
@@ -1258,7 +1258,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 159.
 
-<diagramaContexto.jpg, id=599, 1113.15875pt x 553.06625pt>
+<diagramaContexto.jpg, id=591, 1113.15875pt x 553.06625pt>
 File: diagramaContexto.jpg Graphic file (type jpg)
 
 <use diagramaContexto.jpg>
@@ -1305,7 +1305,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 316.
 
-<analisedeProjeto/DiagramadeContexto.jpg, id=624, 1113.15875pt x 553.06625pt>
+<analisedeProjeto/DiagramadeContexto.jpg, id=608, 1113.15875pt x 553.06625pt>
 File: analisedeProjeto/DiagramadeContexto.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/DiagramadeContexto.jpg>
@@ -1319,7 +1319,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 331.
  [27 <./analisedeProjeto/DiagramadeContexto.jpg>]
-<analisedeProjeto/DFDFisico.jpg, id=635, 1215.54124pt x 638.385pt>
+<analisedeProjeto/DFDFisico.jpg, id=615, 1215.54124pt x 638.385pt>
 File: analisedeProjeto/DFDFisico.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/DFDFisico.jpg>
@@ -1327,14 +1327,14 @@ Package pdftex.def Info: analisedeProjeto/DFDFisico.jpg used on input line 339.
 
 (pdftex.def)             Requested size: 369.88582pt x 194.25418pt.
 
-<analisedeProjeto/Nivel1.jpg, id=637, 1427.3325pt x 876.27374pt>
+<analisedeProjeto/Nivel1.jpg, id=617, 1427.3325pt x 876.27374pt>
 File: analisedeProjeto/Nivel1.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/Nivel1.jpg>
 Package pdftex.def Info: analisedeProjeto/Nivel1.jpg used on input line 349.
 (pdftex.def)             Requested size: 369.88582pt x 227.07703pt.
 
-<analisedeProjeto/Nivel2.jpg, id=639, 1224.575pt x 494.84875pt>
+<analisedeProjeto/Nivel2.jpg, id=619, 1224.575pt x 494.84875pt>
 File: analisedeProjeto/Nivel2.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/Nivel2.jpg>
@@ -1352,7 +1352,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 383.
  [29 <./analisedeProjeto/Nivel2.jpg>]
-<analisedeProjeto/SAcademicoERD.jpg, id=655, 1159.33125pt x 612.2875pt>
+<analisedeProjeto/SAcademicoERD.jpg, id=630, 1159.33125pt x 612.2875pt>
 File: analisedeProjeto/SAcademicoERD.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/SAcademicoERD.jpg>
@@ -1380,7 +1380,7 @@ Overfull \hbox (5.06041pt too wide) in paragraph at lines 416--417
 Entidade-Relacionamento)
  []
 
-<analisedeProjeto/ERFisico.jpg, id=665, 1198.4775pt x 618.31pt>
+<analisedeProjeto/ERFisico.jpg, id=638, 1198.4775pt x 618.31pt>
 File: analisedeProjeto/ERFisico.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/ERFisico.jpg>
@@ -1401,136 +1401,423 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 439.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 442.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 445.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 448.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 449.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 455.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 455.
 
+Overfull \hbox (1.76675pt too wide) in paragraph at lines 450--450
+[]|\T1/cmr/m/n/10.95 Peso| 
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 450--450
+[]|\T1/cmr/m/n/10.95 Personalizado| 
+ []
+
+
+Overfull \hbox (5.101pt too wide) in paragraph at lines 450--450
+[]|\T1/cmr/m/n/10.95 Terceirização| 
+ []
+
+
+Overfull \hbox (1.7651pt too wide) in paragraph at lines 451--451
+[]|\T1/cmr/m/n/10.95 Cronograma| 
+ []
+
+
+Overfull \hbox (35.64517pt too wide) in paragraph at lines 451--451
+[]|[]| 
+ []
+
+
+Overfull \hbox (35.64517pt too wide) in paragraph at lines 451--451
+[]|[]| 
+ []
+
+
+Overfull \hbox (97.83298pt too wide) in paragraph at lines 452--452
+[]|[]| 
+ []
+
+
+Overfull \hbox (171.15045pt too wide) in paragraph at lines 452--452
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\T1/cmr/m/n/10.95 Experiência
+ []
+
+
+Overfull \hbox (131.47508pt too wide) in paragraph at lines 453--453
+[]|[]| 
+ []
+
+
+Overfull \hbox (131.47508pt too wide) in paragraph at lines 453--453
+[]|[]| 
+ []
+
+
+Overfull \hbox (12.62357pt too wide) in paragraph at lines 454--454
+[]|[]| 
+ []
+
+
+Overfull \hbox (167.95062pt too wide) in paragraph at lines 454--454
+[]|[]| 
+ []
+
+
+Overfull \hbox (253.90884pt too wide) in paragraph at lines 454--454
+[]|[]| 
+ []
+
+
+Overfull \hbox (5.1614pt too wide) in paragraph at lines 455--455
+[]|\T1/cmr/m/n/10.95 Qualificações
+ []
+
+
+Overfull \hbox (3.36768pt too wide) in paragraph at lines 455--455
+[]|[]| 
+ []
+
+
+Overfull \hbox (167.46695pt too wide) in paragraph at lines 455--455
+[]|[]| 
+ []
+
+
+Overfull \hbox (74.00587pt too wide) in paragraph at lines 455--455
+[]|[]| 
+ []
+
+
+Overfull \hbox (107.73581pt too wide) in paragraph at lines 447--457
+[][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 458.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 458.
 [32]
-<analisedeProjeto/ArquiteturaDeSoftware.jpg, id=686, 602.25pt x 451.6875pt>
+Overfull \hbox (1.76675pt too wide) in paragraph at lines 465--465
+[]|\T1/cmr/m/n/10.95 Peso| 
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 465--465
+[]|\T1/cmr/m/n/10.95 Personalizado| 
+ []
+
+
+Overfull \hbox (5.101pt too wide) in paragraph at lines 465--465
+[]|\T1/cmr/m/n/10.95 Terceirização| 
+ []
+
+
+Overfull \hbox (1.7651pt too wide) in paragraph at lines 466--466
+[]|\T1/cmr/m/n/10.95 Cronograma| 
+ []
+
+
+Overfull \hbox (35.64517pt too wide) in paragraph at lines 466--466
+[]|[]| 
+ []
+
+
+Overfull \hbox (35.64517pt too wide) in paragraph at lines 466--466
+[]|[]| 
+ []
+
+
+Overfull \hbox (97.83298pt too wide) in paragraph at lines 467--467
+[]|[]| 
+ []
+
+
+Overfull \hbox (171.15045pt too wide) in paragraph at lines 467--467
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--468
+[]|\T1/cmr/m/n/10.95 Experiência
+ []
+
+
+Overfull \hbox (131.47508pt too wide) in paragraph at lines 468--468
+[]|[]| 
+ []
+
+
+Overfull \hbox (131.47508pt too wide) in paragraph at lines 468--468
+[]|[]| 
+ []
+
+
+Overfull \hbox (12.62357pt too wide) in paragraph at lines 469--469
+[]|[]| 
+ []
+
+
+Overfull \hbox (167.95062pt too wide) in paragraph at lines 469--469
+[]|[]| 
+ []
+
+
+Overfull \hbox (253.90884pt too wide) in paragraph at lines 469--469
+[]|[]| 
+ []
+
+
+Overfull \hbox (5.1614pt too wide) in paragraph at lines 470--470
+[]|\T1/cmr/m/n/10.95 Qualificações
+ []
+
+
+Overfull \hbox (3.36768pt too wide) in paragraph at lines 470--470
+[]|[]| 
+ []
+
+
+Overfull \hbox (167.46695pt too wide) in paragraph at lines 470--470
+[]|[]| 
+ []
+
+
+Overfull \hbox (74.00587pt too wide) in paragraph at lines 470--470
+[]|[]| 
+ []
+
+
+Overfull \hbox (107.73581pt too wide) in paragraph at lines 462--472
+[][] 
+ []
+
+
+Overfull \hbox (1.76675pt too wide) in paragraph at lines 480--480
+[]|\T1/cmr/m/n/10.95 Peso| 
+ []
+
+
+Overfull \hbox (8.33334pt too wide) in paragraph at lines 480--480
+[]|\T1/cmr/m/n/10.95 Personalizado| 
+ []
+
+
+Overfull \hbox (5.101pt too wide) in paragraph at lines 480--480
+[]|\T1/cmr/m/n/10.95 Terceirização| 
+ []
+
+
+Overfull \hbox (1.7651pt too wide) in paragraph at lines 481--481
+[]|\T1/cmr/m/n/10.95 Cronograma| 
+ []
+
+
+Overfull \hbox (35.64517pt too wide) in paragraph at lines 481--481
+[]|[]| 
+ []
+
+
+Overfull \hbox (35.64517pt too wide) in paragraph at lines 481--481
+[]|[]| 
+ []
+
+
+Overfull \hbox (97.83298pt too wide) in paragraph at lines 482--482
+[]|[]| 
+ []
+
+
+Overfull \hbox (171.15045pt too wide) in paragraph at lines 482--482
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]|\T1/cmr/m/n/10.95 Experiência
+ []
+
+
+Overfull \hbox (131.47508pt too wide) in paragraph at lines 483--483
+[]|[]| 
+ []
+
+
+Overfull \hbox (131.47508pt too wide) in paragraph at lines 483--483
+[]|[]| 
+ []
+
+
+Overfull \hbox (12.62357pt too wide) in paragraph at lines 484--484
+[]|[]| 
+ []
+
+
+Overfull \hbox (167.95062pt too wide) in paragraph at lines 484--484
+[]|[]| 
+ []
+
+
+Overfull \hbox (253.90884pt too wide) in paragraph at lines 484--484
+[]|[]| 
+ []
+
+
+Overfull \hbox (5.1614pt too wide) in paragraph at lines 485--485
+[]|\T1/cmr/m/n/10.95 Qualificações
+ []
+
+
+Overfull \hbox (3.36768pt too wide) in paragraph at lines 485--485
+[]|[]| 
+ []
+
+
+Overfull \hbox (167.46695pt too wide) in paragraph at lines 485--485
+[]|[]| 
+ []
+
+
+Overfull \hbox (74.00587pt too wide) in paragraph at lines 485--485
+[]|[]| 
+ []
+
+
+Overfull \hbox (107.73581pt too wide) in paragraph at lines 477--487
+[][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 488.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 488.
+[33]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 490.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 493.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 494.
+
+<analisedeProjeto/ArquiteturaDeSoftware.jpg, id=656, 602.25pt x 451.6875pt>
 File: analisedeProjeto/ArquiteturaDeSoftware.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/ArquiteturaDeSoftware.jpg>
 Package pdftex.def Info: analisedeProjeto/ArquiteturaDeSoftware.jpg used on inp
-ut line 461.
+ut line 506.
 (pdftex.def)             Requested size: 284.52756pt x 213.40279pt.
-
-<analisedeProjeto/modelo2Arquitetura.jpg, id=688, 602.25pt x 451.6875pt>
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 509.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 509.
+ [34]
+<analisedeProjeto/modelo2Arquitetura.jpg, id=662, 602.25pt x 451.6875pt>
 File: analisedeProjeto/modelo2Arquitetura.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/modelo2Arquitetura.jpg>
 Package pdftex.def Info: analisedeProjeto/modelo2Arquitetura.jpg used on input 
-line 473.
+line 518.
 (pdftex.def)             Requested size: 284.52756pt x 213.40279pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 525.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 476.
- [33 <./analisedeProjeto/ArquiteturaDeSoftware.jpg>]
+(babel)             in language  on input line 530.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 480.
-
-<analisedeProjeto/arquiteturaDeHardware.jpg, id=700, 555.07375pt x 401.5pt>
+(babel)             in language  on input line 530.
+ [35 <./analisedeProjeto/ArquiteturaDeSoftware.jpg> <./analisedeProjeto/modelo2
+Arquitetura.jpg>]
+<analisedeProjeto/arquiteturaDeHardware.jpg, id=670, 555.07375pt x 401.5pt>
 File: analisedeProjeto/arquiteturaDeHardware.jpg Graphic file (type jpg)
 
 <use analisedeProjeto/arquiteturaDeHardware.jpg>
 Package pdftex.def Info: analisedeProjeto/arquiteturaDeHardware.jpg used on inp
-ut line 491.
+ut line 536.
 (pdftex.def)             Requested size: 284.52756pt x 205.80989pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 494.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 494.
- [34 <./analisedeProjeto/modelo2Arquitetura.jpg>]
-<analisedeProjeto/arcloud.png, id=708, 425.59pt x 351.3125pt>
+
+<analisedeProjeto/arcloud.png, id=672, 425.59pt x 351.3125pt>
 File: analisedeProjeto/arcloud.png Graphic file (type png)
 
 <use analisedeProjeto/arcloud.png>
-Package pdftex.def Info: analisedeProjeto/arcloud.png used on input line 503.
+Package pdftex.def Info: analisedeProjeto/arcloud.png used on input line 548.
 (pdftex.def)             Requested size: 284.52756pt x 234.87961pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 510.
+(babel)             in language  on input line 551.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 515.
+(babel)             in language  on input line 551.
+ [36 <./analisedeProjeto/arquiteturaDeHardware.jpg>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 515.
- [35 <./analisedeProjeto/arquiteturaDeHardware.jpg> <./analisedeProjeto/arcloud
-.png>]
-<analisedeProjeto/arsoft.png, id=719, 602.25pt x 348.30125pt>
+(babel)             in language  on input line 555.
+ <analisedeProjeto/arsoft.png, id=680, 602.25pt x 348.30125pt>
 File: analisedeProjeto/arsoft.png Graphic file (type png)
 
 <use analisedeProjeto/arsoft.png>
-Package pdftex.def Info: analisedeProjeto/arsoft.png used on input line 521.
+Package pdftex.def Info: analisedeProjeto/arsoft.png used on input line 566.
 (pdftex.def)             Requested size: 284.52756pt x 164.55727pt.
-
-<analisedeProjeto/arSoft2.png, id=721, 161.85469pt x 147.55125pt>
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 572.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 572.
+ [37 <./analisedeProjeto/arcloud.png> <./analisedeProjeto/arsoft.png>]
+<analisedeProjeto/arSoft2.png, id=689, 161.85469pt x 147.55125pt>
 File: analisedeProjeto/arSoft2.png Graphic file (type png)
 
 <use analisedeProjeto/arSoft2.png>
-Package pdftex.def Info: analisedeProjeto/arSoft2.png used on input line 533.
+Package pdftex.def Info: analisedeProjeto/arSoft2.png used on input line 578.
 (pdftex.def)             Requested size: 284.52756pt x 259.39828pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 536.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 536.
- [36 <./analisedeProjeto/arsoft.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 544.
+(babel)             in language  on input line 589.
 
-<analisedeProjeto/menu.png, id=731, 767.86874pt x 69.25874pt>
+<analisedeProjeto/menu.png, id=691, 767.86874pt x 69.25874pt>
 File: analisedeProjeto/menu.png Graphic file (type png)
 
 <use analisedeProjeto/menu.png>
-Package pdftex.def Info: analisedeProjeto/menu.png used on input line 550.
+Package pdftex.def Info: analisedeProjeto/menu.png used on input line 595.
 (pdftex.def)             Requested size: 284.52756pt x 25.66336pt.
 
-<analisedeProjeto/menuTime.png, id=733, 918.43124pt x 606.265pt>
+<analisedeProjeto/menuTime.png, id=693, 918.43124pt x 606.265pt>
 File: analisedeProjeto/menuTime.png Graphic file (type png)
 
 <use analisedeProjeto/menuTime.png>
-Package pdftex.def Info: analisedeProjeto/menuTime.png used on input line 559.
+Package pdftex.def Info: analisedeProjeto/menuTime.png used on input line 604.
 (pdftex.def)             Requested size: 284.52756pt x 187.81995pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 562.
+(babel)             in language  on input line 607.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 562.
- [37 <./analisedeProjeto/arSoft2.png> <./analisedeProjeto/menu.png>]
-<analisedeProjeto/form1.png, id=743, 1024.82875pt x 634.37pt>
+(babel)             in language  on input line 607.
+ [38 <./analisedeProjeto/arSoft2.png> <./analisedeProjeto/menu.png>]
+<analisedeProjeto/form1.png, id=700, 1024.82875pt x 634.37pt>
 File: analisedeProjeto/form1.png Graphic file (type png)
 
 <use analisedeProjeto/form1.png>
-Package pdftex.def Info: analisedeProjeto/form1.png used on input line 569.
+Package pdftex.def Info: analisedeProjeto/form1.png used on input line 614.
 (pdftex.def)             Requested size: 284.52756pt x 176.12202pt.
 
-<analisedeProjeto/form2.png, id=745, 1292.83pt x 637.38126pt>
+<analisedeProjeto/form2.png, id=702, 1292.83pt x 637.38126pt>
 File: analisedeProjeto/form2.png Graphic file (type png)
 
 <use analisedeProjeto/form2.png>
-Package pdftex.def Info: analisedeProjeto/form2.png used on input line 578.
+Package pdftex.def Info: analisedeProjeto/form2.png used on input line 623.
 (pdftex.def)             Requested size: 284.52756pt x 140.27293pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 581.
+(babel)             in language  on input line 626.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 581.
- [38 <./analisedeProjeto/menuTime.png> <./analisedeProjeto/form1.png>]
+(babel)             in language  on input line 626.
+ [39 <./analisedeProjeto/menuTime.png> <./analisedeProjeto/form1.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 587.
+(babel)             in language  on input line 632.
 ) (./conclusao.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
- [39 <./analisedeProjeto/form2.png>]
+ [40 <./analisedeProjeto/form2.png>]
 Cap\'{\i }tulo 5.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
-<MeuSistema.jpg, id=760, 1060.56226pt x 430.0065pt>
+<MeuSistema.jpg, id=713, 1060.56226pt x 430.0065pt>
 File: MeuSistema.jpg Graphic file (type jpg)
  <use MeuSistema.jpg>
 Package pdftex.def Info: MeuSistema.jpg used on input line 32.
@@ -1547,7 +1834,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [40
+ [41
 
  <./MeuSistema.jpg>]
 
@@ -1559,214 +1846,53 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 251.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 251.
- [41
+ [42
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
  (./Academico-Trab2014-2015.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
-
-
-Package rerunfilecheck Warning: File `Academico-Trab2014-2015.out' has changed.
-
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Academico-Trab2014-2015.out':
-(rerunfilecheck)             Before: 3E1F0276046055F5230380E060CD0D95;4103
-(rerunfilecheck)             After:  AFCD63BD784D347A5919592A943E1051;4121.
+Package rerunfilecheck Info: File `Academico-Trab2014-2015.out' has not changed
+.
+(rerunfilecheck)             Checksum: AFCD63BD784D347A5919592A943E1051;4121.
 Package rerunfilecheck Info: File `Academico-Trab2014-2015.brf' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
- 21854 strings out of 495004
- 384485 string characters out of 6180662
- 528833 words of memory out of 5000000
- 24287 multiletter control sequences out of 15000+600000
- 22702 words of font info for 48 fonts, out of 8000000 for 9000
+ 21808 strings out of 495004
+ 383903 string characters out of 6180662
+ 541833 words of memory out of 5000000
+ 24292 multiletter control sequences out of 15000+600000
+ 23842 words of font info for 52 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 56i,12n,83p,964b,960s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.5.19} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.18} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.17} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.16} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.15} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.14} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.13} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.12} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.11} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.10} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.9} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.8} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.7} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.6} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.3} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.5.2} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.1} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.6} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.9.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.8.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.8.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.8.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.8.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.7.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.7.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.7.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.7.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.5.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.5.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.5.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.5.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.5.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
-, replaced by a fixed one
-
- </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0600.600pk> </home/p
-eixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/peixoto/.t
-exmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0800.600pk> </home/peixoto/.texmf-var/
-fonts/pk/ljfour/jknappen/ec/ecss1200.600pk> </home/peixoto/.texmf-var/fonts/pk/
-ljfour/jknappen/ec/ecss1095.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jk
-nappen/ec/ecrm1200.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec
-/ecbx1200.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728
-.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1440.600pk> <
-/home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/pei
-xoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1440.600pk> </home/peixoto/.tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/peixoto/.texmf-var/fo
-nts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/peixoto/.texmf-var/fonts/pk/lj
-four/jknappen/ec/eccc1728.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jkna
-ppen/ec/eccc2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb>
-Output written on Academico-Trab2014-2015.pdf (45 pages, 2357536 bytes).
+ 56i,18n,83p,964b,960s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home
+/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0600.600pk> </home/peixoto/
+.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/peixoto/.texmf-va
+r/fonts/pk/ljfour/jknappen/ec/ecbx0800.600pk> </home/peixoto/.texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecss1200.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecss1095.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1200.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx12
+00.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk>
+ </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1440.600pk> </home/p
+eixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/peixoto/.t
+exmf-var/fonts/pk/ljfour/jknappen/ec/ecti1440.600pk> </home/peixoto/.texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/peixoto/.texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx1440.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jk
+nappen/ec/eccc1728.600pk> </home/peixoto/.texmf-var/fonts/pk/ljfour/jknappen/ec
+/eccc2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb>
+Output written on Academico-Trab2014-2015.pdf (46 pages, 2375033 bytes).
 PDF statistics:
- 1463 PDF objects out of 1728 (max. 8388607)
- 779 compressed objects within 8 object streams
- 271 named destinations out of 1000 (max. 500000)
+ 1461 PDF objects out of 1728 (max. 8388607)
+ 724 compressed objects within 8 object streams
+ 220 named destinations out of 1000 (max. 500000)
  710 words of extra memory for PDF output out of 10000 (max. 10000000)
 
